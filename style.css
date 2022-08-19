@@ -159,9 +159,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 100px 500px;
-    height: fit-content;
+    padding: 100px 200px;
     width: auto;
+}
+
+.quote {
+    /*width: 800px;*/
 }
 
 .person {
