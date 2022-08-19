@@ -1,3 +1,4 @@
-# landing-page
-In this project is just for practice
+# landing page
+This project is just for practice.
+
 
